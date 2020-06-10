@@ -1,0 +1,8 @@
+Total Shares Invested in Amazon : 5
+Total Shares Invested in HDFC Bank : 5
+Total Shares Invested in Maruti : 5
+Total Shares Invested in TCS : 5
+Total Shares Invested in Reliance : 5
+Total Amount Invested : 667688.7
+PROFIT : 863.39984
+LOSS : 0.0

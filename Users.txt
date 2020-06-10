@@ -1,0 +1,24 @@
+
+Username : tirth
+Total Investment : 1833917.2
+PROFIT : 2022.9619
+LOSS : 0.0
+-------------------------------
+
+Username : shrey
+Total Investment : 3073856.2
+PROFIT : 6154.115
+LOSS : 0.0
+-------------------------------
+
+Username : kenil
+Total Investment : 9273551.0
+PROFIT : 14416.422
+LOSS : 0.0
+-------------------------------
+
+Username : tirth
+Total Investment : 666667.5
+PROFIT : 1445.9978
+LOSS : 0.0
+-------------------------------
